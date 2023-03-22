@@ -1,7 +1,7 @@
 #ifndef main_h
 #define main_h
 
-entern int _putchar(char);
+entern int _putchar(char c);
 entern void print_alphabet(void);
 entern void print_alphabet_x10(void);
 entern int _islower(int c);
